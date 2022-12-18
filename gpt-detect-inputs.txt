@@ -1,0 +1,8 @@
+This is text 1, written by a human. Replace with your own.
+This is the text 1, re-written by a AI. Replace with your own.
+This is a text 2, written by a human. Replace with your own.
+This is the text 2, re-written by a AI. Replace with your own.
+This is a text 3, written by a human. Replace with your own.
+This is the text 3, re-written by a AI. Replace with your own.
+This is a text 4, written by a human. Replace with your own.
+This is the text 4, re-written by a AI. Replace with your own.
